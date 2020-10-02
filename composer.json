@@ -25,7 +25,7 @@
     "flarum-extension": {
       "title": "Custom SMTP",
       "icon": {
-        "name": "",
+        "name": "fas fa-envelope-open",
         "backgroundColor": "",
         "color": ""
       }
